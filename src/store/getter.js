@@ -1,0 +1,1 @@
+export const userObj = state => state.userObj
